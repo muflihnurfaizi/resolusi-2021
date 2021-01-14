@@ -2,6 +2,6 @@ Resolusi 2021
 
 - Membaca buku sebanyak 30
 - Membuat Website portofolio
-- Belajar AI
 - Membuat WebApp
 - Membuat paper
+- belajar data science
